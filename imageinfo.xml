@@ -1,0 +1,46 @@
+<images xmlns="http://www.gutenberg.ph/2006/schemas/imageinfo">
+<image path="images/book.png" filesize="218" filedate="2010-02-11 22:03:56" width="16px" height="16px">
+</image>
+<image path="images/card.png" filesize="249" filedate="2010-02-11 22:03:56" width="16px" height="11px">
+</image>
+<image path="images/external.png" filesize="172" filedate="2010-02-11 22:03:56" width="12px" height="12px">
+</image>
+<image path="images/head1.png" filesize="10090" filedate="2017-04-29 20:09:15" width="563px" height="61px">
+</image>
+<image path="images/head2.png" filesize="7679" filedate="2017-04-29 20:10:35" width="559px" height="52px">
+</image>
+<image path="images/head3.png" filesize="7656" filedate="2017-04-29 20:12:11" width="570px" height="61px">
+</image>
+<image path="images/head4.png" filesize="6788" filedate="2017-04-29 20:13:21" width="578px" height="73px">
+</image>
+<image path="images/head5.png" filesize="7585" filedate="2017-04-29 20:14:22" width="577px" height="58px">
+</image>
+<image path="images/head6.png" filesize="9780" filedate="2017-04-29 20:15:16" width="558px" height="66px">
+</image>
+<image path="images/initial-a.png" filesize="2890" filedate="2017-04-29 19:57:02" width="98px" height="96px">
+</image>
+<image path="images/initial-c.png" filesize="2683" filedate="2017-04-29 19:59:51" width="93px" height="94px">
+</image>
+<image path="images/initial-m.png" filesize="3514" filedate="2017-04-29 20:01:06" width="116px" height="99px">
+</image>
+<image path="images/initial-t.png" filesize="2247" filedate="2017-04-29 20:02:56" width="91px" height="95px">
+</image>
+<image path="images/music.png" filesize="8155" filedate="2017-04-23 11:31:51" width="545px" height="151px">
+</image>
+<image path="images/new-cover-tn.jpg" filesize="12341" filedate="2017-04-24 17:17:44" width="213px" height="320px">
+</image>
+<image path="images/new-cover.jpg" filesize="63820" filedate="2017-04-24 17:16:55" width="480px" height="720px">
+</image>
+<image path="images/tail1.png" filesize="3249" filedate="2017-04-29 19:51:03" width="241px" height="75px">
+</image>
+<image path="images/tail2.png" filesize="2464" filedate="2017-04-29 19:52:30" width="209px" height="61px">
+</image>
+<image path="images/tail3.png" filesize="3183" filedate="2017-04-29 19:53:40" width="241px" height="74px">
+</image>
+<image path="images/tail4.png" filesize="845" filedate="2017-04-29 19:54:47" width="167px" height="34px">
+</image>
+<image path="images/titlepage.png" filesize="8278" filedate="2017-04-23 10:31:43" width="440px" height="720px">
+</image>
+<image path="images/trailer.jpg" filesize="11043" filedate="2017-04-23 11:51:54" width="279px" height="150px">
+</image>
+</images>
